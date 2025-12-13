@@ -1,4 +1,4 @@
 # Project: Recipes
 
-I will be building this project to practice my HTML skills.
-It'll consist on a simple HTML webpage that contains links to recipes.
+I built this project to practice my HTML skills during The Odin Project.
+It consists on a simple HTML webpage that contains links to recipes. It's some food I enjoy having.
