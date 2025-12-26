@@ -1,0 +1,28 @@
+* {
+    font-family: Helvetica, sans-serif;
+    background-color: rgb(251, 251, 241);
+}
+
+h1,h2,h3,h4 {
+    text-align: center;
+    color: rgb(53, 53, 53);
+}
+ul,ol {
+    color: rgb(53, 53, 53);
+    margin: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+a {
+    color: rgb(137, 137, 121);
+    font-size: 18px;
+}
+ul, li, a, ol {
+    background-color: beige;
+}
+
+img {
+    height: 350px;
+    display: block;
+    margin: 0 auto;
+}
